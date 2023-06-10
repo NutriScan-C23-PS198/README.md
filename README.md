@@ -6,12 +6,14 @@ Indonesia is the country with the fifth largest number of diabetics in the world
 
 ## Team Members
 Our team consist of 6 people.
-- (ML) M360DSY1271 – Dhiya Fathiyya – Universitas Telkom [Active]
-- (ML) M360DSX1280 – Ardi Prayoga – Universitas Telkom [Active]
-- (CC) C360DSX2007 – Fatan Aqilla Hartadi – Universitas Telkom [Active]
-- (CC) C245DSY0813 – Risydah Amatillah – Universitas Muhammadiyah Bandung [Active]
-- (MD) A245DSY1256 – Mevani Kamilah – Universitas Muhammadiyah Bandung [Active]
-- (MD) A245DSX1172 – Yanuar Eka Putera – Universitas Muhammadiyah Bandung [Active]
+| ID          | Nama                  | Universitas                  | Jalur Pembelajaran   | Status  |
+| ------------| --------------------- | ---------------------------- | -------------------- | ------- |
+| M360DSY1271 | Dhiya Fathiyya        | Universitas Telkom           | Machine Learning     | Active  |
+| M360DSX1280 | Ardi Prayoga          | Universitas Telkom           | Machine Learning     | Active  |
+| C360DSX2007 | Fatan Aqilla Hartadi  | Universitas Telkom           | Cloud Computing      | Active  |
+| C245DSY0813 | Risydah Amatillah     | Universitas Muhammadiyah Bandung | Cloud Computing   | Active  |
+| A245DSY1256 | Mevani Kamilah        | Universitas Muhammadiyah Bandung | Mobile Development | Active  |
+| A245DSX1172 | Yanuar Eka Putera     | Universitas Muhammadiyah Bandung | Mobile Development | Active  |
 
 ## Themes
 Themes :
